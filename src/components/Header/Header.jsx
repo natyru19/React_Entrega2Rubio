@@ -1,5 +1,6 @@
 import "./Header.css";
 import CartWidget from "../CartWidget/CartWidget";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -11,15 +12,11 @@ const Header = () => {
             src="https://static.vecteezy.com/system/resources/previews/011/658/621/original/black-and-white-house-icon-with-transparent-background-png.png"
             alt="logo"
           />
-          <a className="header__link" href="#">
-            Cocina
-          </a>
-          <a className="header__link" href="#">
-            Living
-          </a>
-          <a className="header__link" href="#">
-            Patio
-          </a>
+
+          <Link className="header__link" to="/">Inicio</Link>
+          <Link className="header__link" to="/productos/living">Living</Link>
+          <Link className="header__link" to="/productos/cocina">Cocina</Link>
+
           <CartWidget />
         </nav>
       </div>

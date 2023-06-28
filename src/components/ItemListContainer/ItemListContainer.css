@@ -1,7 +1,7 @@
 .list__container {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 40px 0;  
+  padding: 40px 0;
 }
 
 .list__container h2 {
@@ -12,4 +12,9 @@
 .list__container p {
   color: rgb(44, 78, 108);
   font-size: 18px;
+}
+
+.imagenMapeo {
+  height: 150px;
+  width: 150px;
 }
