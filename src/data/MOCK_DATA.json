@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Producto 1",
+    "nombre": "Promo mixer, tostadora y jarra eléctrica",
     "descripcion": "Producto 1 - Cocina",
     "precio": 1800,
     "img": "https://cdn.shopify.com/s/files/1/0281/0619/5026/products/pack_cocina_negro_600x.png?v=1613580092",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "nombre": "Producto 2",
+    "nombre": "Juego de living",
     "descripcion": "Producto 2 - Living",
     "precio": 1500,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIcHBStLdTDEzjraKsDdytszIfk9Fk90a9XyTPbqcyBfauMGwHl8CaHbJLZKRoCV46aU&usqp=CAU",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "nombre": "Producto 3",
+    "nombre": "Mesa de madera con 6 sillas",
     "descripcion": "Producto 3 - Cocina",
     "precio": 3400,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxwNWKKANIT9gwlW9QoJvkZyXMIsqxQFTpu4vbZXIvlDzgROtisSA2wgIhmmo-dGO1-E&usqp=CAU",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "nombre": "Producto 4",
+    "nombre": "Sillón de dos cuerpos",
     "descripcion": "Producto 4 - Living",
     "precio": 800,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqcgrKh4qSjU_k6xqFAXEIr7MTQMEus5-aQ&usqp=CAU",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "nombre": "Producto 5",
+    "nombre": "Olla a presión",
     "descripcion": "Producto 5 - Cocina",
     "precio": 2350,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQe-sLjXljvDXPfPZoPpeOg7M19prAkVCHQ&usqp=CAU",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "nombre": "Producto 6",
+    "nombre": "Juego de patio exterior con sombrilla",
     "descripcion": "Producto 6 - Patio",
     "precio": 1500,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--b3uq07jdt6C-_40TQcDU1iSXYeb1HPAyQ&usqp=CAU",

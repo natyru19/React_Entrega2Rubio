@@ -1,4 +1,12 @@
-.iconoCart {
-  width: 60px;
-  height: 60px;
+.cart-widget {
+  color: blue;
+  font-size: 30px;
+  visibility: hidden;
+  opacity: 0;
+  transition: all .3s ease-in-out;
+}
+
+.cart-widget-active {
+  visibility: visible;
+  opacity: 1;
 }
